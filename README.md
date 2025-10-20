@@ -1,6 +1,6 @@
 <h2 align="center">Hola 👋  soy Auxi ✨😄 </h2> 
 <p align="left">
-<a href="www.linkedin.com/in/maria-auxiliadora-velez-mendoza" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mvelez2793"/></a>
+<a href="https://www.linkedin.com/in/maria-auxiliadora-velez-mendoza/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mvelez2793"/></a>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
