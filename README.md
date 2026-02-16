@@ -1,94 +1,85 @@
-<h1 align="center">Maria Auxiliadora Vélez Mendoza</h1>
+<h1 align="center">María Auxiliadora Vélez Mendoza</h1>
 <h3 align="center">QA Analyst | Manual Testing | Functional Testing | Jira | Postman</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/maria-auxiliadora-velez-mendoza/" target="blank">
+<a href="https://www.linkedin.com/in/maria-auxiliadora-velez-mendoza/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-<h2>👩🏻‍💻 Perfil Profesional</h2>
+## 👩🏻‍💻 Perfil Profesional
 
-Ingeniera en Sistemas con MBA en Project Management y formación especializada en Quality Assurance.  
+Soy **Ingeniera en Sistemas Informáticos** con **MBA en Project Management**, apasionada por la calidad del software y enfocada en **Quality Assurance Manual**. Tengo experiencia práctica en pruebas funcionales, análisis de requerimientos, diseño y ejecución de casos de prueba, además de reporte y seguimiento de bugs.
 
-Experiencia en pruebas funcionales, análisis de requerimientos, reporte estructurado de bugs y validación de sistemas críticos.  
+He trabajado validando sistemas críticos bajo alta presión, incluyendo sistemas electorales, garantizando **estabilidad, integridad de datos y funcionamiento correcto**.
 
-He participado en pruebas del sistema electoral nacional, asegurando estabilidad, integridad de datos y funcionamiento correcto bajo escenarios de alta presión.
-
-Me caracterizo por pensamiento analítico, atención al detalle y enfoque en calidad y mejora continua.
+Me especializo en pruebas manuales y API testing, con herramientas como **Jira**, **Postman**, **SQL** y fundamentos de automatización.
 
 ---
 
-<h2>💼 Experiencia Profesional</h2>
+## 📂 Proyectos Destacados
 
-<h3>Consejo Nacional Electoral (CNE)</h3>
-
-• Participación en fase de pruebas del sistema electoral  
-• Identificación y reporte de incidencias durante testing  
-• Validación de integridad y consistencia de datos  
-• Soporte técnico a personal operativo y enlaces institucionales  
-• Atención de emergencias técnicas bajo alta presión  
-• Coordinación logística de equipos tecnológicos  
-• Generación de reportes de incidencias y seguimiento  
-
-Experiencia en entornos críticos donde la precisión y estabilidad del sistema son fundamentales.
-
----
-
-<h2>📂 Proyectos QA Destacados</h2>
-
-<h3>🛒 Urban Grocers – QA Testing</h3>
-Repositorio: https://github.com/mvelez2793/qa-project-Urban-Grocers-app-es  
+### 🛒 **Urban Grocers – QA Testing**
+🔗 https://github.com/mvelez2793/qa-project-Urban-Grocers-app-es  
+📌 QA Manual aplicado a validación de campos críticos y flujos funcionales.  
 ✔ Diseño y ejecución de casos de prueba  
+✔ Reporte de bugs en JIRA  
 ✔ Aplicación de valores límite y clases de equivalencia  
-✔ Documentación de defectos  
-✔ Pruebas de regresión  
-
-<h3>🚗 Urban Routes – QA Testing</h3>
-Repositorio: https://github.com/mvelez2793/qa-project-Urban-Routes-es  
-✔ Análisis funcional  
-✔ Validación de flujos de usuario  
-✔ Reporte estructurado de bugs  
-✔ Documentación técnica  
+✔ Pruebas de regresión
 
 ---
 
-<h2>🛠 Herramientas y Tecnologías</h2>
+### 🚗 **Urban Routes – QA Testing**
+🔗 https://github.com/mvelez2793/qa-project-Urban-Routes-es  
+📌 Validación de funcionalidades web y documentación técnica.  
+✔ Análisis funcional de requisitos  
+✔ Ejecución de pruebas manuales  
+✔ Reporte de defectos  
+✔ Documentación de pruebas
 
-<p>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+---
+
+## 🛠 Tecnologías y Herramientas
+
+<p align="left">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-<h2>📊 Competencias Clave</h2>
+## 📊 Competencias Clave
 
-• Diseño de casos de prueba  
-• Pruebas funcionales  
-• Pruebas de regresión  
-• Análisis de requerimientos  
-• Gestión de incidencias  
-• Validación de integridad de datos  
-• Testing en entornos críticos  
-• Metodologías Ágiles (Scrum)  
-
----
-
-<h2>🎓 Formación Académica</h2>
-
-• Ingeniería en Sistemas  
-• MBA en Project Management  
-• QA Engineer en formación – TripleTen  
+✔ Diseño de casos de prueba  
+✔ Pruebas funcionales y de regresión  
+✔ Gestión de bugs e incidencias  
+✔ Documentación técnica  
+✔ API Testing con Postman  
+✔ Validación de integridad de datos  
+✔ Metodologías Ágiles (Scrum)
 
 ---
 
-<h2>📫 Contacto</h2>
+## 💼 Experiencia Profesional Relevante
 
-📧 mvelez_2793@hotmail.com
+### **Consejo Nacional Electoral (CNE)**  
+📆 Validación funcional del sistema electoral  
+✔ Reporte y seguimiento de incidencias  
+✔ Soporte técnico en pruebas de producción  
+✔ Coordinación logística de equipos  
+✔ Gestión bajo alta presión
 
+---
+
+## 📫 Contacto
+
+📧 mvelez_2793@hotmail.com  
+🔗 linkedin.com/in/maria-auxiliadora-velez-mendoza
+
+---
+
+<p align="center">🌟 ¡Gracias por visitar mi perfil! 🌟</p>
