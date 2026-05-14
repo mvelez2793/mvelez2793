@@ -21,7 +21,7 @@ Me especializo en pruebas manuales y API testing, con herramientas como **Jira**
 
 ## 📂 Proyectos Destacados
 
-### 📦 3D-BOX – Ecommerce QA Audit & Security
+### **📦 3D-BOX – Ecommerce QA Audit & Security**
 🔗 https://github.com/mvelez2793/QA-Audit-3DBox-Ecommerce
 📌 Auditoría de integridad, análisis de performance y seguridad en plataforma de personalización 3D.
 ✔ Auditoría de Seguridad: Detección de vulnerabilidades críticas bajo estándar OWASP A04:2021.
