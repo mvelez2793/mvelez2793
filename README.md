@@ -21,6 +21,16 @@ Me especializo en pruebas manuales y API testing, con herramientas como **Jira**
 
 ## 📂 Proyectos Destacados
 
+📦 3D-BOX – Ecommerce QA Audit & Security
+🔗 https://github.com/mvelez2793/QA-Audit-3DBox-Ecommerce
+📌 Auditoría de integridad, análisis de performance y seguridad en plataforma de personalización 3D.
+✔ Auditoría de Seguridad: Detección de vulnerabilidades críticas bajo estándar OWASP A04:2021.
+✔ Análisis de Performance: Medición de degradación de recursos (TTFB) mediante inyección de payloads masivos.
+✔ Gestión de Defectos: Documentación técnica avanzada vinculando Jira Cloud y GitHub.
+✔ Model-Based Testing: Diseño de estrategias de prueba derivadas de diagramas de flujo atómicos.
+✔ Testing de Infraestructura: Validación de persistencia de datos y análisis de logs del servidor (Backend).
+
+---
 ### 🛒 **Urban Grocers – QA Testing**
 🔗 https://github.com/mvelez2793/qa-project-Urban-Grocers-app-es  
 📌 QA Manual aplicado a validación de campos críticos y flujos funcionales.  
