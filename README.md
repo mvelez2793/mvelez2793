@@ -58,7 +58,7 @@ Mi enfoque va más allá de reportar bugs visuales (metodología *Shift-Left Tes
 *   💼 **LinkedIn:** [maria-auxiliadora-velez-mendoza](https://www.linkedin.com/in/maria-auxiliadora-velez-mendoza) 
 *   🌐 **Portafolio Web:** [mavm.netlify.app](https://mavm.netlify.app/)
 *   📧 **Email:** mvelez_2793@hotmail.com 
-*   📍 **Ubicación:**Ecuador
+*   📍 **Ubicación:** Ecuador
 
 ---
 ⭐ *¿Buscas una QA Engineer con mentalidad preventiva, bases sólidas en ingeniería y capaz de asegurar la calidad desde el diseño de la arquitectura hasta la automatización en producción? [4] ¡Contáctame y hablemos de cómo puedo aportar valor a tu equipo!*
