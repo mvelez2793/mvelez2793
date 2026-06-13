@@ -23,7 +23,7 @@ Mi enfoque va más allá de reportar bugs visuales (metodología *Shift-Left Tes
 *(Haz clic en los enlaces para acceder al código fuente, matrices de pruebas, consultas SQL y reportes de defectos en Jira de cada repositorio).*
 
 ### 👑 1. Auditoría Integral (Full-Stack QA)
-*   **[Auditoría 360°: Web, App Móvil y API - Urban Scooter](https://github.com/mvelez2793/09_Auditoria-Web-Movil-y-API---Urban-Scooter)**
+*   **[Auditoría: Web, App Móvil y API - Urban Scooter](https://github.com/mvelez2793/09_Auditoria-Web-Movil-y-API---Urban-Scooter)**
     *   **Descripción:** Auditoría completa de un ecosistema de alquiler de patinetes cubriendo 3 capas arquitectónicas. Apliqué Análisis de Valores Límite en la plataforma Web, simulé interrupciones de red (Offline mode) en la App de Android de los repartidores, y vulneré la API REST validando la corrupción de datos directamente en PostgreSQL mediante consultas SQL.
 
 ### 🤖 2. Automatización de Pruebas (E2E & API)
@@ -61,7 +61,7 @@ Mi enfoque va más allá de reportar bugs visuales (metodología *Shift-Left Tes
 *   📍 **Ubicación:** Ecuador
 
 ---
-⭐ *¿Buscas una QA Engineer con mentalidad preventiva, bases sólidas en ingeniería y capaz de asegurar la calidad desde el diseño de la arquitectura hasta la automatización en producción? [4] ¡Contáctame y hablemos de cómo puedo aportar valor a tu equipo!*
+⭐ *¿Buscas una QA Engineer con mentalidad preventiva, bases sólidas en ingeniería y capaz de asegurar la calidad desde el diseño de la arquitectura hasta la automatización en producción? ¡Contáctame y hablemos de cómo puedo aportar valor a tu equipo!*
 
 
 ## 📫 Contacto
