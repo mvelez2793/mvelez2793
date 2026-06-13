@@ -1,3 +1,7 @@
+<div align="right">
+  🌍 <strong>Español</strong> | <a href="README_en.md">English</a>
+</div>
+
 # 👋 ¡Hola! Soy María Auxiliadora Vélez Mendoza
 
 ### 👩‍💻 QA Engineer Full-Stack | Manual & Automation Testing | Ingeniera en Sistemas
