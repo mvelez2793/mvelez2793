@@ -27,6 +27,9 @@ Mi enfoque va más allá de reportar bugs visuales (metodología *Shift-Left Tes
 *(Haz clic en los enlaces para acceder al código fuente, matrices de pruebas, consultas SQL y reportes de defectos en Jira de cada repositorio).*
 
 ### 👑 1. Auditoría Integral (Full-Stack QA)
+*   **[Auditoría: Auditoría de Resiliencia y Seguridad: App Financiera Móvil](https://github.com/mvelez2793/12_QA-Resilience-Framework.git)**
+    *   **Descripción:** Auditoría técnica de caja negra sobre el flujo crítico de autenticación. Combina automatización E2E móvil con Appium, stress testing con Postman Runner, análisis DAST con Charles Proxy y observabilidad en tiempo real con Grafana.
+
 *   **[Auditoría: Web, App Móvil y API - Urban Scooter](https://github.com/mvelez2793/09_Auditoria-Web-Movil-y-API---Urban-Scooter)**
     *   **Descripción:** Auditoría completa de un ecosistema de alquiler de patinetes cubriendo 3 capas arquitectónicas. Apliqué Análisis de Valores Límite en la plataforma Web, simulé interrupciones de red (Offline mode) en la App de Android de los repartidores, y vulneré la API REST validando la corrupción de datos directamente en PostgreSQL mediante consultas SQL.
 
